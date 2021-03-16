@@ -1,0 +1,709 @@
+2021-03-16 17:09:46,604 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-03-16 17:10:12,736 [Worker-7: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:demo:0.0.1-SNAPSHOT @ C:\Users\aa\project\workspace3\demo\pom.xml.
+2021-03-16 17:10:15,825 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/main/java
+2021-03-16 17:10:15,827 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
+2021-03-16 17:10:15,860 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
+2021-03-16 17:10:15,896 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/test/java
+2021-03-16 17:10:23,692 [Worker-7: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 15 sec
+2021-03-16 17:10:23,705 [Worker-7: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-03-16 17:10:25,478 [Worker-7: Import Getting Started Content] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:demo:0.0.1-SNAPSHOT @ C:\Users\aa\project\workspace3\demo\pom.xml.
+2021-03-16 17:10:28,121 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/main/java
+2021-03-16 17:10:28,121 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
+2021-03-16 17:10:28,122 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
+2021-03-16 17:10:28,124 [Worker-7: Import Getting Started Content] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/test/java
+2021-03-16 17:10:29,646 [Worker-7: Import Getting Started Content] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for demo
+2021-03-16 17:10:29,651 [Worker-7: Import Getting Started Content] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 5 sec
+2021-03-16 17:10:31,062 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:10:31,063 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-16 17:10:31,068 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-16 17:10:31,090 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 17:10:31,096 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:10:31,096 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-16 17:10:31,097 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aa\project\workspace3\demo\src\test\resources
+2021-03-16 17:10:31,098 [Worker-6: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of demo
+2021-03-16 17:10:31,099 [Worker-6: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for demo
+2021-03-16 17:10:31,107 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:10:31,107 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-16 17:10:47,514 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:10:47,515 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-16 17:10:47,518 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 17:10:47,519 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 17:10:47,525 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:10:47,525 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-16 17:10:47,526 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aa\project\workspace3\demo\src\test\resources
+2021-03-16 17:13:47,267 [Worker-8: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:demo:0.0.1-SNAPSHOT @ C:\Users\aa\project\workspace3\demo\pom.xml.
+2021-03-16 17:13:49,138 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:13:49,139 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-16 17:13:49,153 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 17:13:49,153 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 17:13:49,157 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:13:49,158 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-16 17:13:49,158 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aa\project\workspace3\demo\src\test\resources
+2021-03-16 17:13:49,159 [Worker-8: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of demo
+2021-03-16 17:13:49,159 [Worker-8: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for demo
+2021-03-16 17:13:49,166 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:13:49,166 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-16 17:14:08,930 [Worker-9: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:demo:0.0.1-SNAPSHOT @ C:\Users\aa\project\workspace3\demo\pom.xml.
+2021-03-16 17:14:10,903 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:14:10,903 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-16 17:14:10,907 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 17:14:10,908 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 17:14:10,912 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:14:10,912 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-16 17:14:10,912 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aa\project\workspace3\demo\src\test\resources
+2021-03-16 17:14:10,913 [Worker-9: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of demo
+2021-03-16 17:14:10,913 [Worker-9: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for demo
+2021-03-16 17:14:10,921 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:14:10,921 [Worker-9: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-16 17:14:15,442 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:14:15,444 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-16 17:14:15,446 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-16 17:14:15,464 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 17:14:15,467 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:14:15,467 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-16 17:14:15,467 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aa\project\workspace3\demo\src\test\resources
+2021-03-16 17:14:55,718 [Worker-10: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:demo:0.0.1-SNAPSHOT @ C:\Users\aa\project\workspace3\demo\pom.xml.
+2021-03-16 17:14:57,099 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping yarn install as package.json unchanged
+2021-03-16 17:14:57,211 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:14:57,214 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 17:14:57,216 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 17:14:57,219 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:14:57,219 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aa\project\workspace3\demo\src\test\resources
+2021-03-16 17:14:57,220 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping yarn install as package.json unchanged
+2021-03-16 17:14:57,229 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:14:57,230 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aa\project\workspace3\demo\fe\build
+2021-03-16 17:14:57,230 [Worker-10: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of demo
+2021-03-16 17:14:57,230 [Worker-10: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for demo
+2021-03-16 17:14:57,236 [Worker-10: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:15:37,463 [Worker-8: Launching Executing clean in C__Users_aa_project_workspace3_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\aa\project\workspace3\demo
+2021-03-16 17:15:37,469 [Worker-8: Launching Executing clean in C__Users_aa_project_workspace3_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B clean -Dstyle.color=always
+2021-03-16 17:15:45,919 [Worker-2: Building] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - Running 'yarn install' in C:\Users\aa\project\workspace3\demo\fe
+2021-03-16 17:15:45,946 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:15:45,947 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-16 17:15:45,965 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 17:15:45,968 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:15:45,968 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aa\project\workspace3\demo\src\test\resources
+2021-03-16 17:15:45,969 [Worker-2: Building] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - Running 'yarn build' in C:\Users\aa\project\workspace3\demo\fe
+2021-03-16 17:15:45,974 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:15:45,974 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aa\project\workspace3\demo\fe\build
+2021-03-16 17:15:45,975 [Worker-2: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of demo
+2021-03-16 17:15:45,975 [Worker-2: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for demo
+2021-03-16 17:15:45,981 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:22:57,726 [Worker-8: Launching Executing install in C__Users_aa_project_workspace3_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\aa\project\workspace3\demo
+2021-03-16 17:22:57,728 [Worker-8: Launching Executing install in C__Users_aa_project_workspace3_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B install -Dstyle.color=always
+2021-03-16 17:24:06,381 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping yarn install as package.json unchanged
+2021-03-16 17:24:06,400 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:24:06,402 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-16 17:24:06,406 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 17:24:06,409 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:24:06,409 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aa\project\workspace3\demo\src\test\resources
+2021-03-16 17:24:06,410 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping yarn install as package.json unchanged
+2021-03-16 17:24:06,413 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:24:06,421 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-16 17:24:57,050 [Worker-14: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-03-16 17:25:00,168 [Worker-14: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:demo:0.0.1-SNAPSHOT @ C:\Users\aa\project\workspace3\demo\pom.xml.
+2021-03-16 17:25:02,060 [Worker-14: Updating Maven Project] INFO  c.g.e.m.p.f.lib.NodeInstaller - Node v14.16.0 is already installed.
+2021-03-16 17:25:02,379 [Worker-14: Updating Maven Project] INFO  c.g.e.m.p.f.lib.YarnInstaller - Yarn 1.16.0 is already installed.
+2021-03-16 17:25:02,469 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/main/java
+2021-03-16 17:25:02,470 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
+2021-03-16 17:25:02,470 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
+2021-03-16 17:25:02,471 [Worker-14: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/test/java
+2021-03-16 17:25:04,420 [Worker-14: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for demo
+2021-03-16 17:25:04,499 [Worker-14: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 7 sec
+2021-03-16 17:25:06,728 [Worker-8: Building] INFO  c.g.e.m.p.f.lib.NodeInstaller - Node v14.16.0 is already installed.
+2021-03-16 17:25:06,996 [Worker-8: Building] INFO  c.g.e.m.p.f.lib.YarnInstaller - Yarn 1.16.0 is already installed.
+2021-03-16 17:25:06,999 [Worker-8: Building] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - Running 'yarn install' in C:\Users\aa\project\workspace3\demo\fe
+2021-03-16 17:25:07,260 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - yarn install v1.16.0
+2021-03-16 17:25:07,388 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - [1/4] Resolving packages...
+2021-03-16 17:25:08,697 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - success Already up-to-date.
+2021-03-16 17:25:08,723 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - Done in 1.48s.
+2021-03-16 17:25:09,061 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:25:09,062 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-16 17:25:09,083 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 17:25:09,086 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:25:09,087 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aa\project\workspace3\demo\src\test\resources
+2021-03-16 17:25:09,088 [Worker-8: Building] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - Running 'yarn build' in C:\Users\aa\project\workspace3\demo\fe
+2021-03-16 17:25:09,366 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - yarn run v1.16.0
+2021-03-16 17:25:09,431 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - $ react-scripts build
+2021-03-16 17:25:12,972 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - Creating an optimized production build...
+2021-03-16 17:25:20,100 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - Compiled successfully.
+2021-03-16 17:25:20,101 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - 
+2021-03-16 17:25:20,101 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - File sizes after gzip:
+2021-03-16 17:25:20,101 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - 
+2021-03-16 17:25:20,124 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner -   41.33 KB  build\static\js\2.f2d3fb97.chunk.js
+2021-03-16 17:25:20,124 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner -   1.56 KB   build\static\js\3.c25e5b41.chunk.js
+2021-03-16 17:25:20,124 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner -   1.16 KB   build\static\js\runtime-main.68ea6e64.js
+2021-03-16 17:25:20,124 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner -   584 B     build\static\js\main.ec173680.chunk.js
+2021-03-16 17:25:20,124 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner -   531 B     build\static\css\main.8c8b27cf.chunk.css
+2021-03-16 17:25:20,124 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - 
+2021-03-16 17:25:20,125 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - The project was built assuming it is hosted at /.
+2021-03-16 17:25:20,125 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - You can control this with the homepage field in your package.json.
+2021-03-16 17:25:20,125 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - 
+2021-03-16 17:25:20,125 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - The build folder is ready to be deployed.
+2021-03-16 17:25:20,125 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - You may serve it with a static server:
+2021-03-16 17:25:20,125 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - 
+2021-03-16 17:25:20,126 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner -   yarn global add serve
+2021-03-16 17:25:20,126 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner -   serve -s build
+2021-03-16 17:25:20,126 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - 
+2021-03-16 17:25:20,126 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - Find out more about deployment here:
+2021-03-16 17:25:20,126 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - 
+2021-03-16 17:25:20,126 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner -   https://cra.link/deployment
+2021-03-16 17:25:20,126 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - 
+2021-03-16 17:25:20,190 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - Done in 10.86s.
+2021-03-16 17:25:20,218 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:25:20,220 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-16 17:25:20,424 [Worker-8: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of demo
+2021-03-16 17:25:20,424 [Worker-8: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for demo
+2021-03-16 17:25:20,428 [Worker-8: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:29:21,241 [Worker-11: Launching Executing clean in C__Users_aa_project_workspace3_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\aa\project\workspace3\demo
+2021-03-16 17:29:21,241 [Worker-11: Launching Executing clean in C__Users_aa_project_workspace3_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B clean -Dstyle.color=always
+2021-03-16 17:29:27,893 [Worker-11: Building] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - Running 'yarn install' in C:\Users\aa\project\workspace3\demo\fe
+2021-03-16 17:29:27,908 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:29:27,910 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-16 17:29:27,914 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 17:29:27,917 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:29:27,917 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aa\project\workspace3\demo\src\test\resources
+2021-03-16 17:29:27,918 [Worker-11: Building] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - Running 'yarn build' in C:\Users\aa\project\workspace3\demo\fe
+2021-03-16 17:29:27,922 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:29:27,926 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-16 17:29:28,237 [Worker-11: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of demo
+2021-03-16 17:29:28,237 [Worker-11: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for demo
+2021-03-16 17:29:28,244 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:29:39,388 [Worker-19: Launching Executing install in C__Users_aa_project_workspace3_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\aa\project\workspace3\demo
+2021-03-16 17:29:39,388 [Worker-19: Launching Executing install in C__Users_aa_project_workspace3_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B install -Dstyle.color=always
+2021-03-16 17:34:41,980 [Worker-20: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for demo
+2021-03-16 17:34:44,005 [Worker-11: Building] INFO  c.g.e.m.p.f.lib.NodeInstaller - Node v14.16.0 is already installed.
+2021-03-16 17:34:45,659 [Worker-11: Building] INFO  c.g.e.m.p.f.lib.YarnInstaller - Yarn 1.16.0 is already installed.
+2021-03-16 17:34:45,660 [Worker-11: Building] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - Running 'yarn install' in C:\Users\aa\project\workspace3\demo\fe
+2021-03-16 17:34:46,162 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - yarn install v1.16.0
+2021-03-16 17:34:46,392 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - [1/4] Resolving packages...
+2021-03-16 17:34:49,106 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultYarnRunner - warning fullcalendar-reactwrapper > react-dom > fbjs > core-js@1.2.7: core-js@<3 is no longer maintained and not recommended for usage due to the number of issues. Please, upgrade your dependencies to the actual version of core-js@3.
+2021-03-16 17:34:49,302 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultYarnRunner - warning mdbreact > popper.js@1.16.1: You can find the new Popper v2 at @popperjs/core, this package is dedicated to the legacy v1
+2021-03-16 17:34:49,330 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultYarnRunner - warning mdbreact > @material-ui/core > popper.js@1.16.1: You can find the new Popper v2 at @popperjs/core, this package is dedicated to the legacy v1
+2021-03-16 17:34:49,407 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultYarnRunner - warning mdbreact > material-ui-pickers@2.2.4: You can now upgrade to @material-ui/pickers. Documentation for v2 can be found at https://material-ui-pickers-v2.dmtr-kovalenko.now.sh/
+2021-03-16 17:34:49,465 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultYarnRunner - warning mdbreact > react-popper > popper.js@1.16.1: You can find the new Popper v2 at @popperjs/core, this package is dedicated to the legacy v1
+2021-03-16 17:34:52,526 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultYarnRunner - warning html-webpack-plugin@3.2.0: 3.x is no longer supported
+2021-03-16 17:34:53,818 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - [2/4] Fetching packages...
+2021-03-16 17:35:00,926 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - info fsevents@2.3.2: The platform "win32" is incompatible with this module.
+2021-03-16 17:35:00,927 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - info "fsevents@2.3.2" is an optional dependency and failed compatibility check. Excluding it from installation.
+2021-03-16 17:35:00,937 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - info fsevents@1.2.13: The platform "win32" is incompatible with this module.
+2021-03-16 17:35:00,937 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - info "fsevents@1.2.13" is an optional dependency and failed compatibility check. Excluding it from installation.
+2021-03-16 17:35:00,953 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - [3/4] Linking dependencies...
+2021-03-16 17:35:00,957 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultYarnRunner - warning " > @testing-library/user-event@12.8.3" has unmet peer dependency "@testing-library/dom@>=7.21.4".
+2021-03-16 17:35:00,972 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultYarnRunner - warning " > style-loader@1.3.0" has unmet peer dependency "webpack@^4.0.0 || ^5.0.0".
+2021-03-16 17:35:00,988 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultYarnRunner - warning "react-scripts > @typescript-eslint/eslint-plugin > tsutils@3.20.0" has unmet peer dependency "typescript@>=2.8.0 || >= 3.2.0-dev || >= 3.3.0-dev || >= 3.4.0-dev || >= 3.5.0-dev || >= 3.6.0-dev || >= 3.6.0-beta || >= 3.7.0-dev || >= 3.7.0-beta".
+2021-03-16 17:35:01,005 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultYarnRunner - warning "mdbreact > sass-loader@8.0.2" has unmet peer dependency "webpack@^4.36.0 || ^5.0.0".
+2021-03-16 17:35:01,023 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultYarnRunner - warning " > react-datepicker@2.16.0" has incorrect peer dependency "react@^16.9.0".
+2021-03-16 17:35:01,040 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultYarnRunner - warning " > react-datepicker@2.16.0" has incorrect peer dependency "react-dom@^16.9.0".
+2021-03-16 17:35:01,058 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultYarnRunner - warning "react-metismenu > react-redux@5.1.2" has incorrect peer dependency "react@^0.14.0 || ^15.0.0-0 || ^16.0.0-0".
+2021-03-16 17:35:01,079 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultYarnRunner - warning " > react-metismenu-router-link@2.1.0" has unmet peer dependency "prop-types@^15.6.0".
+2021-03-16 17:35:01,098 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultYarnRunner - warning " > react-metismenu-router-link@2.1.0" has incorrect peer dependency "react@^16.0.0".
+2021-03-16 17:35:01,116 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultYarnRunner - warning " > react-metismenu-router-link@2.1.0" has incorrect peer dependency "react-dom@^16.0.0".
+2021-03-16 17:35:01,133 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultYarnRunner - warning " > react-metismenu-router-link@2.1.0" has incorrect peer dependency "react-router-dom@^4.2.2".
+2021-03-16 17:35:01,150 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultYarnRunner - warning " > react-script-tag@1.1.2" has incorrect peer dependency "react@^16.0.0".
+2021-03-16 17:35:01,169 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultYarnRunner - warning " > sweetalert2-react@0.8.3" has incorrect peer dependency "react@^16.0.0".
+2021-03-16 17:35:01,186 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultYarnRunner - warning " > sweetalert2-react@0.8.3" has incorrect peer dependency "react-dom@^16.0.0".
+2021-03-16 17:35:01,203 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultYarnRunner - warning " > css-loader@3.6.0" has unmet peer dependency "webpack@^4.0.0 || ^5.0.0".
+2021-03-16 17:35:01,224 [Exec Stream Pumper] ERROR c.g.e.m.p.f.lib.DefaultYarnRunner - warning " > html-webpack-plugin@3.2.0" has unmet peer dependency "webpack@^1.0.0 || ^2.0.0 || ^3.0.0 || ^4.0.0".
+2021-03-16 17:37:11,033 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - [4/4] Building fresh packages...
+2021-03-16 17:37:16,862 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - success Saved lockfile.
+2021-03-16 17:37:16,883 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - Done in 150.75s.
+2021-03-16 17:37:17,009 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:37:17,011 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-16 17:37:17,014 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 17:37:17,017 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:37:17,017 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aa\project\workspace3\demo\src\test\resources
+2021-03-16 17:37:17,018 [Worker-11: Building] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - Running 'yarn build' in C:\Users\aa\project\workspace3\demo\fe
+2021-03-16 17:37:17,460 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - yarn run v1.16.0
+2021-03-16 17:37:17,546 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - $ react-scripts build
+2021-03-16 17:38:12,591 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - Creating an optimized production build...
+2021-03-16 17:39:42,039 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - Compiled successfully.
+2021-03-16 17:39:42,040 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - 
+2021-03-16 17:39:42,040 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - File sizes after gzip:
+2021-03-16 17:39:42,041 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - 
+2021-03-16 17:39:42,066 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner -   41.33 KB  build\static\js\2.f2d3fb97.chunk.js
+2021-03-16 17:39:42,066 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner -   1.56 KB   build\static\js\3.c25e5b41.chunk.js
+2021-03-16 17:39:42,066 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner -   1.16 KB   build\static\js\runtime-main.68ea6e64.js
+2021-03-16 17:39:42,066 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner -   584 B     build\static\js\main.ec173680.chunk.js
+2021-03-16 17:39:42,067 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner -   531 B     build\static\css\main.8c8b27cf.chunk.css
+2021-03-16 17:39:42,067 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - 
+2021-03-16 17:39:42,067 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - The project was built assuming it is hosted at /.
+2021-03-16 17:39:42,067 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - You can control this with the homepage field in your package.json.
+2021-03-16 17:39:42,067 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - 
+2021-03-16 17:39:42,068 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - The build folder is ready to be deployed.
+2021-03-16 17:39:42,068 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - You may serve it with a static server:
+2021-03-16 17:39:42,068 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - 
+2021-03-16 17:39:42,069 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner -   yarn global add serve
+2021-03-16 17:39:42,069 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner -   serve -s build
+2021-03-16 17:39:42,069 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - 
+2021-03-16 17:39:42,069 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - Find out more about deployment here:
+2021-03-16 17:39:42,069 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - 
+2021-03-16 17:39:42,070 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner -   https://cra.link/deployment
+2021-03-16 17:39:42,070 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - 
+2021-03-16 17:39:42,184 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - Done in 144.76s.
+2021-03-16 17:39:42,204 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:39:42,205 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-16 17:39:42,648 [Worker-11: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of demo
+2021-03-16 17:39:42,648 [Worker-11: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for demo
+2021-03-16 17:39:42,655 [Worker-11: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:39:52,000 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping yarn install as package.json unchanged
+2021-03-16 17:39:52,004 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:39:52,004 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 17:39:52,005 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 17:39:52,007 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:39:52,008 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aa\project\workspace3\demo\src\test\resources
+2021-03-16 17:39:52,009 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping yarn install as package.json unchanged
+2021-03-16 17:39:52,011 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:39:52,011 [Worker-23: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 17:40:13,942 [Worker-29: Launching Executing clean in C__Users_aa_project_workspace3_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\aa\project\workspace3\demo
+2021-03-16 17:40:13,942 [Worker-29: Launching Executing clean in C__Users_aa_project_workspace3_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B clean -Dstyle.color=always
+2021-03-16 17:40:28,713 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping yarn install as package.json unchanged
+2021-03-16 17:40:28,716 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:40:28,717 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-16 17:40:28,718 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 17:40:28,720 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:40:28,721 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aa\project\workspace3\demo\src\test\resources
+2021-03-16 17:40:28,721 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping yarn install as package.json unchanged
+2021-03-16 17:40:28,723 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:40:28,725 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-16 17:40:28,950 [Worker-22: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of demo
+2021-03-16 17:40:28,950 [Worker-22: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for demo
+2021-03-16 17:40:28,953 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:45:10,425 [Worker-29: Launching Executing install in C__Users_aa_project_workspace3_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\aa\project\workspace3\demo
+2021-03-16 17:45:10,425 [Worker-29: Launching Executing install in C__Users_aa_project_workspace3_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B install -Dstyle.color=always
+2021-03-16 17:45:58,937 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping yarn install as package.json unchanged
+2021-03-16 17:45:58,940 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:45:58,941 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-16 17:45:58,943 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 17:45:58,945 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:45:58,945 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aa\project\workspace3\demo\src\test\resources
+2021-03-16 17:45:58,946 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping yarn install as package.json unchanged
+2021-03-16 17:45:58,948 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:45:58,951 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-16 17:47:25,614 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping yarn install as package.json unchanged
+2021-03-16 17:47:25,618 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:47:25,621 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-16 17:47:25,624 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 17:47:25,627 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:47:25,627 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aa\project\workspace3\demo\src\test\resources
+2021-03-16 17:47:25,628 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping yarn install as package.json unchanged
+2021-03-16 17:47:25,631 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:47:25,632 [Worker-29: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 17:47:41,795 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping yarn install as package.json unchanged
+2021-03-16 17:47:41,798 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:47:41,798 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-16 17:47:41,802 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 17:47:41,805 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:47:41,806 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aa\project\workspace3\demo\src\test\resources
+2021-03-16 17:47:41,807 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping yarn install as package.json unchanged
+2021-03-16 17:47:41,809 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:47:41,809 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 17:49:02,646 [Worker-24: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:demo:0.0.1-SNAPSHOT @ C:\Users\aa\project\workspace3\demo\pom.xml.
+2021-03-16 17:49:04,842 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping yarn install as package.json unchanged
+2021-03-16 17:49:04,967 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:49:04,971 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 17:49:04,972 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 17:49:04,975 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:49:04,975 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aa\project\workspace3\demo\src\test\resources
+2021-03-16 17:49:04,976 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping yarn install as package.json unchanged
+2021-03-16 17:49:04,979 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:49:04,979 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 17:49:04,979 [Worker-24: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of demo
+2021-03-16 17:49:04,980 [Worker-24: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for demo
+2021-03-16 17:49:04,984 [Worker-24: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:49:10,179 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping yarn install as package.json unchanged
+2021-03-16 17:49:10,356 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:49:10,360 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-03-16 17:49:10,384 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 17:49:10,388 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:49:10,388 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aa\project\workspace3\demo\src\test\resources
+2021-03-16 17:49:10,389 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping yarn install as package.json unchanged
+2021-03-16 17:49:10,394 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:49:10,398 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-16 17:49:23,371 [Worker-24: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for demo
+2021-03-16 17:49:24,678 [Worker-33: Building] INFO  c.g.e.m.p.f.lib.NodeInstaller - Node v14.16.0 is already installed.
+2021-03-16 17:49:25,427 [Worker-33: Building] INFO  c.g.e.m.p.f.lib.YarnInstaller - Yarn 1.16.0 is already installed.
+2021-03-16 17:49:25,430 [Worker-33: Building] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - Running 'yarn install' in C:\Users\aa\project\workspace3\demo\fe
+2021-03-16 17:49:25,678 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - yarn install v1.16.0
+2021-03-16 17:49:25,817 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - [1/4] Resolving packages...
+2021-03-16 17:49:26,709 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - success Already up-to-date.
+2021-03-16 17:49:26,723 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - Done in 1.06s.
+2021-03-16 17:49:26,775 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:49:26,775 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-03-16 17:49:26,779 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 17:49:26,782 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:49:26,782 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aa\project\workspace3\demo\src\test\resources
+2021-03-16 17:49:26,784 [Worker-33: Building] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - Running 'yarn build' in C:\Users\aa\project\workspace3\demo\fe
+2021-03-16 17:49:27,609 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - yarn run v1.16.0
+2021-03-16 17:49:27,838 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - $ react-scripts build
+2021-03-16 17:49:30,147 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - Creating an optimized production build...
+2021-03-16 17:49:34,717 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - Compiled successfully.
+2021-03-16 17:49:34,717 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - 
+2021-03-16 17:49:34,718 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - File sizes after gzip:
+2021-03-16 17:49:34,718 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - 
+2021-03-16 17:49:34,727 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner -   41.33 KB  build\static\js\2.f2d3fb97.chunk.js
+2021-03-16 17:49:34,727 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner -   1.56 KB   build\static\js\3.c25e5b41.chunk.js
+2021-03-16 17:49:34,727 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner -   1.16 KB   build\static\js\runtime-main.68ea6e64.js
+2021-03-16 17:49:34,727 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner -   584 B     build\static\js\main.ec173680.chunk.js
+2021-03-16 17:49:34,727 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner -   531 B     build\static\css\main.8c8b27cf.chunk.css
+2021-03-16 17:49:34,727 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - 
+2021-03-16 17:49:34,727 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - The project was built assuming it is hosted at /.
+2021-03-16 17:49:34,727 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - You can control this with the homepage field in your package.json.
+2021-03-16 17:49:34,727 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - 
+2021-03-16 17:49:34,728 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - The build folder is ready to be deployed.
+2021-03-16 17:49:34,728 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - You may serve it with a static server:
+2021-03-16 17:49:34,728 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - 
+2021-03-16 17:49:34,728 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner -   yarn global add serve
+2021-03-16 17:49:34,728 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner -   serve -s build
+2021-03-16 17:49:34,728 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - 
+2021-03-16 17:49:34,728 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - Find out more about deployment here:
+2021-03-16 17:49:34,728 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - 
+2021-03-16 17:49:34,728 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner -   https://cra.link/deployment
+2021-03-16 17:49:34,728 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - 
+2021-03-16 17:49:34,769 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - Done in 7.48s.
+2021-03-16 17:49:34,784 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:49:34,785 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-16 17:49:34,956 [Worker-33: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of demo
+2021-03-16 17:49:34,956 [Worker-33: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for demo
+2021-03-16 17:49:34,958 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:49:52,945 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-03-16 17:49:57,072 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:demo:0.0.1-SNAPSHOT @ C:\Users\aa\project\workspace3\demo\pom.xml.
+2021-03-16 17:49:58,872 [Worker-24: Updating Maven Project] INFO  c.g.e.m.p.f.lib.NodeInstaller - Node v14.16.0 is already installed.
+2021-03-16 17:49:59,068 [Worker-24: Updating Maven Project] INFO  c.g.e.m.p.f.lib.YarnInstaller - Yarn 1.16.0 is already installed.
+2021-03-16 17:49:59,117 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/main/java
+2021-03-16 17:49:59,117 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
+2021-03-16 17:49:59,118 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
+2021-03-16 17:49:59,118 [Worker-24: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/test/java
+2021-03-16 17:50:00,608 [Worker-24: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for demo
+2021-03-16 17:50:00,688 [Worker-24: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 7 sec
+2021-03-16 17:50:04,043 [Worker-30: Building] INFO  c.g.e.m.p.f.lib.NodeInstaller - Node v14.16.0 is already installed.
+2021-03-16 17:50:04,342 [Worker-30: Building] INFO  c.g.e.m.p.f.lib.YarnInstaller - Yarn 1.16.0 is already installed.
+2021-03-16 17:50:04,344 [Worker-30: Building] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - Running 'yarn install' in C:\Users\aa\project\workspace3\demo\fe
+2021-03-16 17:50:04,593 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - yarn install v1.16.0
+2021-03-16 17:50:04,718 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - [1/4] Resolving packages...
+2021-03-16 17:50:06,158 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - success Already up-to-date.
+2021-03-16 17:50:06,166 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - Done in 1.59s.
+2021-03-16 17:50:06,346 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:50:06,347 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-03-16 17:50:06,365 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 17:50:06,368 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:50:06,369 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aa\project\workspace3\demo\src\test\resources
+2021-03-16 17:50:06,370 [Worker-30: Building] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - Running 'yarn build' in C:\Users\aa\project\workspace3\demo\fe
+2021-03-16 17:50:06,629 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - yarn run v1.16.0
+2021-03-16 17:50:06,683 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - $ react-scripts build
+2021-03-16 17:50:08,789 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - Creating an optimized production build...
+2021-03-16 17:50:13,204 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - Compiled successfully.
+2021-03-16 17:50:13,205 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - 
+2021-03-16 17:50:13,205 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - File sizes after gzip:
+2021-03-16 17:50:13,205 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - 
+2021-03-16 17:50:13,213 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner -   41.33 KB  build\static\js\2.f2d3fb97.chunk.js
+2021-03-16 17:50:13,213 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner -   1.56 KB   build\static\js\3.c25e5b41.chunk.js
+2021-03-16 17:50:13,213 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner -   1.16 KB   build\static\js\runtime-main.68ea6e64.js
+2021-03-16 17:50:13,213 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner -   584 B     build\static\js\main.ec173680.chunk.js
+2021-03-16 17:50:13,213 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner -   531 B     build\static\css\main.8c8b27cf.chunk.css
+2021-03-16 17:50:13,213 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - 
+2021-03-16 17:50:13,213 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - The project was built assuming it is hosted at /.
+2021-03-16 17:50:13,214 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - You can control this with the homepage field in your package.json.
+2021-03-16 17:50:13,214 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - 
+2021-03-16 17:50:13,214 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - The build folder is ready to be deployed.
+2021-03-16 17:50:13,214 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - You may serve it with a static server:
+2021-03-16 17:50:13,214 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - 
+2021-03-16 17:50:13,214 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner -   yarn global add serve
+2021-03-16 17:50:13,214 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner -   serve -s build
+2021-03-16 17:50:13,214 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - 
+2021-03-16 17:50:13,214 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - Find out more about deployment here:
+2021-03-16 17:50:13,214 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - 
+2021-03-16 17:50:13,214 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner -   https://cra.link/deployment
+2021-03-16 17:50:13,214 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - 
+2021-03-16 17:50:13,256 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - Done in 6.65s.
+2021-03-16 17:50:13,273 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:50:13,274 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-16 17:50:13,440 [Worker-30: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of demo
+2021-03-16 17:50:13,440 [Worker-30: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for demo
+2021-03-16 17:50:13,442 [Worker-30: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:53:23,452 [Worker-32: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:demo:0.0.1-SNAPSHOT @ C:\Users\aa\project\workspace3\demo\pom.xml.
+2021-03-16 17:53:25,242 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping yarn install as package.json unchanged
+2021-03-16 17:53:25,307 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:53:25,310 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 17:53:25,310 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 17:53:25,313 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:53:25,313 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aa\project\workspace3\demo\src\test\resources
+2021-03-16 17:53:25,313 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping yarn install as package.json unchanged
+2021-03-16 17:53:25,317 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:53:25,317 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 17:53:25,317 [Worker-32: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of demo
+2021-03-16 17:53:25,317 [Worker-32: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for demo
+2021-03-16 17:53:25,320 [Worker-32: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:53:28,664 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping yarn install as package.json unchanged
+2021-03-16 17:53:28,755 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:53:28,757 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-03-16 17:53:28,766 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 17:53:28,767 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:53:28,767 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aa\project\workspace3\demo\src\test\resources
+2021-03-16 17:53:28,768 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping yarn install as package.json unchanged
+2021-03-16 17:53:28,770 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:53:28,772 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-16 17:53:39,373 [Worker-39: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2021-03-16 17:53:43,766 [Worker-39: Updating Maven Project] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.example:demo:0.0.1-SNAPSHOT @ C:\Users\aa\project\workspace3\demo\pom.xml.
+2021-03-16 17:53:45,525 [Worker-39: Updating Maven Project] INFO  c.g.e.m.p.f.lib.NodeInstaller - Node v14.16.0 is already installed.
+2021-03-16 17:53:45,740 [Worker-39: Updating Maven Project] INFO  c.g.e.m.p.f.lib.YarnInstaller - Yarn 1.16.0 is already installed.
+2021-03-16 17:53:45,798 [Worker-39: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/main/java
+2021-03-16 17:53:45,799 [Worker-39: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
+2021-03-16 17:53:45,799 [Worker-39: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /demo/src/main/resources
+2021-03-16 17:53:45,799 [Worker-39: Updating Maven Project] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /demo/src/test/java
+2021-03-16 17:53:46,938 [Worker-39: Updating Maven Project] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for demo
+2021-03-16 17:53:47,030 [Worker-39: Updating Maven Project] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 7 sec
+2021-03-16 17:53:50,684 [Worker-38: Building] INFO  c.g.e.m.p.f.lib.NodeInstaller - Node v14.16.0 is already installed.
+2021-03-16 17:53:51,056 [Worker-38: Building] INFO  c.g.e.m.p.f.lib.YarnInstaller - Yarn 1.16.0 is already installed.
+2021-03-16 17:53:51,059 [Worker-38: Building] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - Running 'yarn install' in C:\Users\aa\project\workspace3\demo\fe
+2021-03-16 17:53:51,363 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - yarn install v1.16.0
+2021-03-16 17:53:51,525 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - [1/4] Resolving packages...
+2021-03-16 17:53:53,033 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - success Already up-to-date.
+2021-03-16 17:53:53,689 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - Done in 2.35s.
+2021-03-16 17:53:54,253 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:53:54,254 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-03-16 17:53:54,274 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 17:53:54,277 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:53:54,277 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aa\project\workspace3\demo\src\test\resources
+2021-03-16 17:53:54,278 [Worker-38: Building] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - Running 'yarn build' in C:\Users\aa\project\workspace3\demo\fe
+2021-03-16 17:53:54,613 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - yarn run v1.16.0
+2021-03-16 17:53:54,668 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - $ react-scripts build
+2021-03-16 17:54:06,115 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - Creating an optimized production build...
+2021-03-16 17:54:15,313 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - Compiled successfully.
+2021-03-16 17:54:15,313 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - 
+2021-03-16 17:54:15,313 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - File sizes after gzip:
+2021-03-16 17:54:15,313 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - 
+2021-03-16 17:54:15,323 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner -   41.33 KB  build\static\js\2.f2d3fb97.chunk.js
+2021-03-16 17:54:15,323 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner -   1.56 KB   build\static\js\3.c25e5b41.chunk.js
+2021-03-16 17:54:15,323 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner -   1.16 KB   build\static\js\runtime-main.68ea6e64.js
+2021-03-16 17:54:15,324 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner -   584 B     build\static\js\main.ec173680.chunk.js
+2021-03-16 17:54:15,324 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner -   531 B     build\static\css\main.8c8b27cf.chunk.css
+2021-03-16 17:54:15,324 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - 
+2021-03-16 17:54:15,324 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - The project was built assuming it is hosted at /.
+2021-03-16 17:54:15,324 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - You can control this with the homepage field in your package.json.
+2021-03-16 17:54:15,324 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - 
+2021-03-16 17:54:15,324 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - The build folder is ready to be deployed.
+2021-03-16 17:54:15,324 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - You may serve it with a static server:
+2021-03-16 17:54:15,324 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - 
+2021-03-16 17:54:15,325 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner -   yarn global add serve
+2021-03-16 17:54:15,325 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner -   serve -s build
+2021-03-16 17:54:15,325 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - 
+2021-03-16 17:54:15,325 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - Find out more about deployment here:
+2021-03-16 17:54:15,325 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - 
+2021-03-16 17:54:15,325 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner -   https://cra.link/deployment
+2021-03-16 17:54:15,325 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - 
+2021-03-16 17:54:15,368 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - Done in 20.78s.
+2021-03-16 17:54:15,384 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:54:15,385 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-16 17:54:15,575 [Worker-38: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of demo
+2021-03-16 17:54:15,575 [Worker-38: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for demo
+2021-03-16 17:54:15,578 [Worker-38: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:54:35,156 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping yarn install as package.json unchanged
+2021-03-16 17:54:35,158 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:54:35,158 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-16 17:54:35,161 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 17:54:35,164 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:54:35,165 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aa\project\workspace3\demo\src\test\resources
+2021-03-16 17:54:35,165 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping yarn install as package.json unchanged
+2021-03-16 17:54:35,167 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 17:54:35,167 [Worker-39: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 18:11:25,246 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping yarn install as package.json unchanged
+2021-03-16 18:11:25,248 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 18:11:25,249 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-03-16 18:11:25,255 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 18:11:25,257 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 18:11:25,257 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aa\project\workspace3\demo\src\test\resources
+2021-03-16 18:11:25,258 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping yarn install as package.json unchanged
+2021-03-16 18:11:25,260 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 18:11:25,260 [Worker-47: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 18:13:44,230 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping yarn install as package.json unchanged
+2021-03-16 18:13:44,240 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 18:13:44,241 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 18:13:44,242 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 18:13:44,245 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 18:13:44,246 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aa\project\workspace3\demo\src\test\resources
+2021-03-16 18:13:44,247 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping yarn install as package.json unchanged
+2021-03-16 18:13:44,251 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 18:13:44,252 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 18:13:58,685 [Worker-51: Cleaning all projects] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Cleaning filtered folder for demo
+2021-03-16 18:14:00,501 [Worker-45: Building] INFO  c.g.e.m.p.f.lib.NodeInstaller - Node v14.16.0 is already installed.
+2021-03-16 18:14:00,987 [Worker-45: Building] INFO  c.g.e.m.p.f.lib.YarnInstaller - Yarn 1.16.0 is already installed.
+2021-03-16 18:14:00,989 [Worker-45: Building] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - Running 'yarn install' in C:\Users\aa\project\workspace3\demo\fe
+2021-03-16 18:14:01,444 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - yarn install v1.16.0
+2021-03-16 18:14:01,851 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - [1/4] Resolving packages...
+2021-03-16 18:14:03,361 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - success Already up-to-date.
+2021-03-16 18:14:03,380 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - Done in 1.98s.
+2021-03-16 18:14:03,418 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 18:14:03,419 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-03-16 18:14:03,438 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 18:14:03,442 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 18:14:03,443 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aa\project\workspace3\demo\src\test\resources
+2021-03-16 18:14:03,444 [Worker-45: Building] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - Running 'yarn build' in C:\Users\aa\project\workspace3\demo\fe
+2021-03-16 18:14:04,033 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - yarn run v1.16.0
+2021-03-16 18:14:04,151 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - $ react-scripts build
+2021-03-16 18:14:10,355 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - Creating an optimized production build...
+2021-03-16 18:14:30,970 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - Compiled with warnings.
+2021-03-16 18:14:30,970 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - 
+2021-03-16 18:14:30,971 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - src\cmm\container\Home.js
+2021-03-16 18:14:30,971 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner -   Line 1:17:  'useState' is defined but never used  no-unused-vars
+2021-03-16 18:14:30,971 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - 
+2021-03-16 18:14:30,971 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - src\sec\container\Login.js
+2021-03-16 18:14:30,971 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner -   Line 26:42:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+2021-03-16 18:14:30,971 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - 
+2021-03-16 18:14:30,971 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - src\uss\container\SignUp.js
+2021-03-16 18:14:30,971 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner -   Line 28:60:  The href attribute requires a valid value to be accessible. Provide a valid, navigable address as the href value. If you cannot provide a valid href, but still need the element to resemble a link, use a button and change it with appropriate styles. Learn more: https://github.com/evcohen/eslint-plugin-jsx-a11y/blob/master/docs/rules/anchor-is-valid.md  jsx-a11y/anchor-is-valid
+2021-03-16 18:14:30,971 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - 
+2021-03-16 18:14:30,971 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - Search for the keywords to learn more about each warning.
+2021-03-16 18:14:30,971 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - To ignore, add // eslint-disable-next-line to the line before.
+2021-03-16 18:14:30,971 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - 
+2021-03-16 18:14:30,971 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - File sizes after gzip:
+2021-03-16 18:14:30,971 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - 
+2021-03-16 18:14:30,996 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner -   51.52 KB (+10.2 KB)  build\static\js\2.72600a48.chunk.js
+2021-03-16 18:14:30,997 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner -   1.56 KB (+1 B)       build\static\js\3.04973119.chunk.js
+2021-03-16 18:14:30,997 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner -   1.21 KB (+653 B)     build\static\js\main.e39bdea8.chunk.js
+2021-03-16 18:14:30,997 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner -   1.16 KB (+2 B)       build\static\js\runtime-main.e3403295.js
+2021-03-16 18:14:30,997 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner -   447 B (-84 B)        build\static\css\main.7dc1210c.chunk.css
+2021-03-16 18:14:30,997 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - 
+2021-03-16 18:14:30,998 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - The project was built assuming it is hosted at /.
+2021-03-16 18:14:30,998 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - You can control this with the homepage field in your package.json.
+2021-03-16 18:14:30,998 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - 
+2021-03-16 18:14:30,998 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - The build folder is ready to be deployed.
+2021-03-16 18:14:30,998 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - You may serve it with a static server:
+2021-03-16 18:14:30,998 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - 
+2021-03-16 18:14:30,998 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner -   yarn global add serve
+2021-03-16 18:14:30,999 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner -   serve -s build
+2021-03-16 18:14:30,999 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - 
+2021-03-16 18:14:30,999 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - Find out more about deployment here:
+2021-03-16 18:14:30,999 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - 
+2021-03-16 18:14:31,000 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner -   https://cra.link/deployment
+2021-03-16 18:14:31,000 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - 
+2021-03-16 18:14:31,091 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultYarnRunner - Done in 27.10s.
+2021-03-16 18:14:31,116 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 18:14:31,117 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 19 resources
+2021-03-16 18:14:31,204 [Worker-45: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of demo
+2021-03-16 18:14:31,204 [Worker-45: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for demo
+2021-03-16 18:14:31,210 [Worker-45: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 18:16:11,173 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping yarn install as package.json unchanged
+2021-03-16 18:16:11,176 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 18:16:11,177 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 18:16:11,177 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 18:16:11,181 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 18:16:11,181 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aa\project\workspace3\demo\src\test\resources
+2021-03-16 18:16:11,182 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping yarn install as package.json unchanged
+2021-03-16 18:16:11,185 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 18:16:11,185 [Worker-40: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-03-16 18:16:19,339 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping yarn install as package.json unchanged
+2021-03-16 18:16:19,342 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 18:16:19,343 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 18:16:19,343 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 18:16:19,346 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 18:16:19,346 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aa\project\workspace3\demo\src\test\resources
+2021-03-16 18:16:19,348 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping yarn install as package.json unchanged
+2021-03-16 18:16:19,351 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 18:16:19,351 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 18:16:22,047 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping yarn install as package.json unchanged
+2021-03-16 18:16:22,051 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 18:16:22,051 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 18:16:22,051 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 18:16:22,053 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 18:16:22,054 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aa\project\workspace3\demo\src\test\resources
+2021-03-16 18:16:22,056 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping yarn install as package.json unchanged
+2021-03-16 18:16:22,059 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 18:16:22,059 [Worker-55: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 18:16:23,293 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping yarn install as package.json unchanged
+2021-03-16 18:16:23,296 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 18:16:23,297 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 18:16:23,297 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 18:16:23,300 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 18:16:23,300 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aa\project\workspace3\demo\src\test\resources
+2021-03-16 18:16:23,301 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping yarn install as package.json unchanged
+2021-03-16 18:16:23,304 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 18:16:23,304 [Worker-57: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 18:17:12,417 [Worker-45: Launching Executing clean in C__Users_aa_project_workspace3_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\aa\project\workspace3\demo
+2021-03-16 18:17:12,417 [Worker-45: Launching Executing clean in C__Users_aa_project_workspace3_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B clean -Dstyle.color=always
+2021-03-16 18:17:23,428 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping yarn install as package.json unchanged
+2021-03-16 18:17:23,432 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 18:17:23,434 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-03-16 18:17:23,451 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 18:17:23,454 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 18:17:23,454 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aa\project\workspace3\demo\src\test\resources
+2021-03-16 18:17:23,455 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping yarn install as package.json unchanged
+2021-03-16 18:17:23,458 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 18:17:23,463 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 18 resources
+2021-03-16 18:17:23,945 [Worker-54: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of demo
+2021-03-16 18:17:23,945 [Worker-54: Building] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for demo
+2021-03-16 18:17:23,952 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 18:17:31,838 [Worker-55: Launching Executing install in C__Users_aa_project_workspace3_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\aa\project\workspace3\demo
+2021-03-16 18:17:31,838 [Worker-55: Launching Executing install in C__Users_aa_project_workspace3_demo] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B install -Dstyle.color=always
+2021-03-16 18:21:53,245 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping yarn install as package.json unchanged
+2021-03-16 18:21:53,249 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 18:21:53,251 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-03-16 18:21:53,258 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 18:21:53,260 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 18:21:53,260 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aa\project\workspace3\demo\src\test\resources
+2021-03-16 18:21:53,261 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping yarn install as package.json unchanged
+2021-03-16 18:21:53,267 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 18:21:53,267 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 20:04:49,987 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping yarn install as package.json unchanged
+2021-03-16 20:04:50,001 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 20:04:50,002 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-03-16 20:04:50,006 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 20:04:50,009 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 20:04:50,009 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aa\project\workspace3\demo\src\test\resources
+2021-03-16 20:04:50,011 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping yarn install as package.json unchanged
+2021-03-16 20:04:50,014 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 20:04:50,015 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 20:12:00,429 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping yarn install as package.json unchanged
+2021-03-16 20:12:00,430 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 20:12:00,431 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-03-16 20:12:00,434 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 20:12:00,435 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 20:12:00,435 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aa\project\workspace3\demo\src\test\resources
+2021-03-16 20:12:00,436 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping yarn install as package.json unchanged
+2021-03-16 20:12:00,437 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 20:12:00,438 [Worker-72: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 20:13:03,936 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping yarn install as package.json unchanged
+2021-03-16 20:13:03,938 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 20:13:03,939 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-03-16 20:13:03,942 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 20:13:03,944 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 20:13:03,944 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aa\project\workspace3\demo\src\test\resources
+2021-03-16 20:13:03,944 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping yarn install as package.json unchanged
+2021-03-16 20:13:03,946 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 20:13:03,946 [Worker-74: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 20:13:59,340 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping yarn install as package.json unchanged
+2021-03-16 20:13:59,341 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 20:13:59,342 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-03-16 20:13:59,344 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 20:13:59,346 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 20:13:59,346 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aa\project\workspace3\demo\src\test\resources
+2021-03-16 20:13:59,346 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping yarn install as package.json unchanged
+2021-03-16 20:13:59,347 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 20:13:59,348 [Worker-73: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 20:22:09,280 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping yarn install as package.json unchanged
+2021-03-16 20:22:09,282 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 20:22:09,283 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-03-16 20:22:09,290 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 20:22:09,293 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 20:22:09,293 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aa\project\workspace3\demo\src\test\resources
+2021-03-16 20:22:09,294 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping yarn install as package.json unchanged
+2021-03-16 20:22:09,298 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 20:22:09,300 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 20:23:10,120 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping yarn install as package.json unchanged
+2021-03-16 20:23:10,126 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 20:23:10,127 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-03-16 20:23:10,130 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 20:23:10,132 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 20:23:10,132 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aa\project\workspace3\demo\src\test\resources
+2021-03-16 20:23:10,132 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping yarn install as package.json unchanged
+2021-03-16 20:23:10,133 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 20:23:10,133 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 20:24:10,420 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping yarn install as package.json unchanged
+2021-03-16 20:24:10,421 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 20:24:10,422 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-03-16 20:24:10,425 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-16 20:24:10,427 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 20:24:10,427 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aa\project\workspace3\demo\src\test\resources
+2021-03-16 20:24:10,428 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping yarn install as package.json unchanged
+2021-03-16 20:24:10,429 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-16 20:24:10,429 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource

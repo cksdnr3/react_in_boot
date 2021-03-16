@@ -1,0 +1,10 @@
+package com.example.demo.uss.service;
+
+import org.springframework.data.domain.Page;
+
+public interface UserService {
+	
+	public Iterable<Long> findAll(Sort sort); // entitle
+	public Page<T> findAll(Pageable pageable); //
+	
+}
