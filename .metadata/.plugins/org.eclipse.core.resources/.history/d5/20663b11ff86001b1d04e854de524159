@@ -1,0 +1,9 @@
+package com.example.demo.uss.service;
+
+import java.util.Optional;
+
+import org.springframework.data.domain.Example;
+
+public interface AdminService {
+
+}

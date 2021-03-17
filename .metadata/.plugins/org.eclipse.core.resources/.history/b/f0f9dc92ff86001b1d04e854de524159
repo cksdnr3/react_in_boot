@@ -1,0 +1,20 @@
+package com.example.demo.cmm.util;
+
+public class MainTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Proxy p = new Proxy();
+		int a = p.intMax.apply(1, 2);
+
+		
+		
+		p.print.accept("hello lambda");
+		p.print.accept(p.toString.apply(a));
+		p.print.accept("hello lambda");
+		p.print.accept("hello lambda");
+		p.print.accept("hello lambda");
+		p.print.accept("hello lambda");
+	}
+
+}

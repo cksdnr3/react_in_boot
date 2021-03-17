@@ -1,0 +1,18 @@
+package com.example.demo.cmm.util;
+
+import java.util.List;
+import java.util.Optional;
+import java.util.function.Consumer;
+import java.util.function.Function;
+
+import org.springframework.stereotype.Component;
+
+// 프록시 패턴
+@Component
+public class Proxy {
+	
+	public Consumer<String> print = System.out::print;
+	public Function<Object, String> toString = String::valueOf;
+	public Function<String, Integer> strToInteger = Integer::parseInt;
+	public Function<Double, Double> absDble = Math::abs;
+}

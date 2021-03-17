@@ -1,0 +1,64 @@
+package com.example.demo.uss.service;
+
+import java.util.Optional;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.domain.Example;
+import org.springframework.data.domain.Page;
+import org.springframework.data.domain.Pageable;
+import org.springframework.stereotype.Service;
+
+import com.example.demo.cmm.service.AbstractService;
+import com.example.demo.uss.repository.UserRepository;
+
+
+@Service
+public class UserServiceImpl extends AbstractService {
+
+	@Autowired
+	UserRepository repo;
+	
+	void test() {
+		
+	}
+
+	@Override
+	public long count() {
+		return 0;
+	}
+
+	@Override
+	public <User> boolean exists(Example<User> example) {
+		return false;
+	}
+
+	@Override
+	public <User> Optional<User> findOne(Example<User> example) {
+		return null;
+	}
+
+	@Override
+	public boolean existsById(long id) {
+		return false;
+	}
+
+	@Override
+	public void deleteById(long id) {
+	}
+
+	@Override
+	public <User> User save(User entity) {
+		return null;
+	}
+
+	@Override
+	public Page<Long> findAll(Pageable pageable) {
+		return null;
+	}
+
+	@Override
+	public <User> Iterable<User> saveAll(Iterable<User> entities) {
+		return null;
+	}
+	
+}

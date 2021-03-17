@@ -1,0 +1,30 @@
+package com.example.demo.cmm.util;
+
+import java.util.List;
+import java.util.Optional;
+import java.util.function.Consumer;
+import java.util.function.Function;
+import java.util.function.Supplier;
+
+import org.springframework.stereotype.Component;
+
+// 프록시 패턴
+@Component
+public class Proxy {
+	
+	public Consumer<String> print = System.out::print;
+	public Function<Object, String> toString = String::valueOf;
+	public Function<String, Integer> strToInteger = Integer::parseInt;
+	public Function<Integer, Integer> abs = Math::abs;
+	public Function<Double, Double> abs = Math::abs;
+
+	public Function<Double, Double> ceil = Math::ceil;
+	public Function<Double, Double> floor = Math::floor;
+	
+	public Function<Object, Object> max = Math::max;
+	
+	public Function<Object, Object> min = Math::min;
+	
+	public Supplier<Double> random = Math::random;
+	public Function<Double, Double> rint = Math::rint;
+}

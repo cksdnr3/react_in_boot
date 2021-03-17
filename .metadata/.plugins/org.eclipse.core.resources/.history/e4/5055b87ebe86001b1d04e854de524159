@@ -1,0 +1,8 @@
+package com.example.demo.uss.service;
+
+public interface AdminService {
+	public Iterable<Long> findAll();
+	public long count();
+	public void deleteById(long id);
+	public boolean existsById(long id);
+}

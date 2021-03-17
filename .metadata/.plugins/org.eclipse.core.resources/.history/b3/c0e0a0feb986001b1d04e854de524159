@@ -1,0 +1,12 @@
+package com.example.demo.uss.repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+
+interface UserCustomRepository {
+	
+}
+
+public interface UserRepository {
+	
+}

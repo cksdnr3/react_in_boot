@@ -1,0 +1,16 @@
+package com.example.demo.cmm.service;
+
+import java.util.Optional;
+
+import org.springframework.data.domain.Example;
+import org.springframework.data.domain.Page;
+import org.springframework.data.domain.Pageable;
+
+
+public abstract class AbstractService<T> {
+	public abstract long count();
+	public abstract boolean existById(long id);
+	public abstract List<T> findAll();
+	public abstract Optional<User> findOne();
+	
+}

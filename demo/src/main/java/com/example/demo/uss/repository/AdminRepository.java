@@ -1,5 +1,13 @@
 package com.example.demo.uss.repository;
 
-public interface AdminRepository {
+import org.springframework.data.jpa.repository.JpaRepository;
 
+import com.example.demo.uss.domain.Admin;
+
+interface AdminCustomInterface {
+	
+}
+
+public interface AdminRepository extends JpaRepository<Admin, Long>, AdminCustomInterface {
+	
 }

@@ -1,0 +1,11 @@
+package com.example.demo.uss.service;
+
+import org.springframework.data.domain.Page;
+import org.springframework.data.domain.Pageable;
+
+public interface AdminService {
+	public Page<Long> findAll(Pageable pageable);
+	public long count();
+	public void deleteById(long id);
+	public boolean existsById(long id);
+}
