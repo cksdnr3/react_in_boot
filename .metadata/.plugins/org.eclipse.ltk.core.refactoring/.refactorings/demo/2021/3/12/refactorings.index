@@ -3,3 +3,8 @@
 1615961826598	Rename type 'AbstractService'
 1615963921936	Delete element
 1615971780387	Delete element
+1616032547804	Move compilation unit
+1616032605663	Rename package 'com.example.demo.sec.configuration'
+1616032667400	Rename compilation unit 'SecurityConfig.java'
+1616038139258	Move compilation unit
+1616038169810	Move compilation unit

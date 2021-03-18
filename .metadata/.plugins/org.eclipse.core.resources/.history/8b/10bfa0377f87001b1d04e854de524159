@@ -1,0 +1,10 @@
+package com.example.demo.bbs.repository;
+
+import org.springframework.stereotype.Repository;
+
+import com.example.demo.cmm.service.AbstractService;
+
+@Repository
+public class ArticleRepositoryImpl extends AbstractService<Article>  {
+
+}

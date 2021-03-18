@@ -1,0 +1,16 @@
+package com.example.demo.bbs.repository;
+
+import java.util.List;
+import java.util.Optional;
+
+import org.springframework.stereotype.Repository;
+
+import com.example.demo.bbs.domain.Article;
+import com.example.demo.cmm.service.AbstractService;
+
+@Repository
+public class ArticleRepositoryImpl {
+
+
+
+}

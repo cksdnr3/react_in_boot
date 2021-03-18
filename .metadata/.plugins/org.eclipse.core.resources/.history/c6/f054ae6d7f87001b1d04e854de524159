@@ -1,0 +1,56 @@
+package com.example.demo.bbs.repository;
+
+import java.util.List;
+import java.util.Optional;
+
+import org.springframework.stereotype.Repository;
+
+import com.example.demo.bbs.domain.Board;
+import com.example.demo.cmm.service.AbstractService;
+
+@Repository
+public class BoardRepositoryImpl extends AbstractService<Board> {
+
+	@Override
+	public long count() {
+		// TODO Auto-generated method stub
+		return 0;
+	}
+
+	@Override
+	public boolean existsById(long id) {
+		// TODO Auto-generated method stub
+		return false;
+	}
+
+	@Override
+	public List findAll() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Optional findOne() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public void deleteById(long id) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public Object getOne(long id) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+	@Override
+	public Object save(Object entity) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

@@ -1,0 +1,13 @@
+package com.example.demo.uss.service;
+
+@Service
+public class AdminServiceImpl {
+//	 extends AbstractService<Admin>
+	void test() {
+		
+	}
+	
+//	@Autowired
+//	AdminRepository repo;
+	
+}
