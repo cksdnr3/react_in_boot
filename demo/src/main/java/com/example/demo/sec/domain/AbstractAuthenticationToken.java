@@ -12,7 +12,7 @@ public class AbstractAuthenticationToken implements Authentication {
 
 //	@Override
 //	public Collection getAuthorities() {
-////		Collection<? extends GrantedAuthority>
+//		Collection<? extends GrantedAuthority>
 //		// TODO Auto-generated method stub
 //		return null;
 //	}
@@ -46,5 +46,5 @@ public class AbstractAuthenticationToken implements Authentication {
 		// TODO Auto-generated method stub
 		
 	}
-//	, CredentialsContainer
+
 }

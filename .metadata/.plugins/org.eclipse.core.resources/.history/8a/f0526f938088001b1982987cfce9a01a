@@ -1,0 +1,7 @@
+package com.example.demo.sec.config;
+
+import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
+
+public class WebMvcConfig implements WebMvcConfigurer {
+
+}

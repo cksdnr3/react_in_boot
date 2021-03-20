@@ -2,6 +2,7 @@ package com.example.demo.sec.filter;
 
 import java.io.IOException;
 
+
 import javax.servlet.FilterChain;
 import javax.servlet.ServletException;
 import javax.servlet.ServletRequest;
@@ -26,8 +27,9 @@ public class JwtAuthenticationFilter extends GenericFilterBean {
 	private JwtTokenProvider JwtTokenProvider;
 
 	@Override
-	public void doFilter(ServletRequest request, ServletResponse response, FilterChain chain)
+	public void doFilter(ServletRequest req, ServletResponse res, FilterChain chain)
 			throws IOException, ServletException {
+		
 
 	}
 

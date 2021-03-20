@@ -1,9 +1,0 @@
-package com.example.demo.cmm.service;
-
-import java.util.Optional;
-
-import org.springframework.data.domain.Example;
-
-public interface CommonService {
-
-}

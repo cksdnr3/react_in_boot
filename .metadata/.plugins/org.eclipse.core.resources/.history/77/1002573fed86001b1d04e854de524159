@@ -1,9 +1,0 @@
-package com.example.demo.cmm.util;
-
-import java.util.List;
-import java.util.Optional;
-
-// 프록시 패턴
-public class Proxy {
-
-}
