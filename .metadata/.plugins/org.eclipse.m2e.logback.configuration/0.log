@@ -6391,3 +6391,9 @@
 2021-03-20 21:19:57,624 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping yarn install as package.json unchanged
 2021-03-20 21:19:57,638 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-03-20 21:19:57,645 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2021-03-20 21:19:57,666 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-20 21:19:57,674 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-20 21:19:57,674 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\aa\project\workspace3\demo\src\test\resources
+2021-03-20 21:19:57,676 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Skipping yarn install as package.json unchanged
+2021-03-20 21:19:57,680 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-20 21:19:57,681 [Worker-129: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
